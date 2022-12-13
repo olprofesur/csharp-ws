@@ -62,7 +62,7 @@ namespace HttpClientSample
                 Album album = null;
 
                 // Get an existing product
-                album = await GetAlbumAsync("/albums/1");
+                album = await GetAlbumAsync("/albums/2");
                 ShowProduct(album);
 
             }
