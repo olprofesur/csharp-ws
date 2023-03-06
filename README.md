@@ -1,2 +1,2 @@
 # csharp-ws
-Basic examples for consuming and providing Web Services in C# / .NET Core
+Basic examples for consuming Web Services in C# / .NET Core
