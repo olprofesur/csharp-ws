@@ -100,9 +100,9 @@ namespace HttpClientSample
                 album.id = 99; album.title = "Test"; album.userId = 1;
                 var url = await CreateProductAsync(album);
                 Console.WriteLine($"New album reated at {url}");
-                /*
-                album = await GetAlbumAsync(url);
-                ShowProduct(album);*/
+                
+                album = await GetAlbumAsync("https://jsonplaceholder.typicode.com/albums/1");
+                ShowProduct(album);
 
                 // Update the product
                 Console.WriteLine("Updating title...");

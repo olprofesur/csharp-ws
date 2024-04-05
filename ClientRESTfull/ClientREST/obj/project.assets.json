@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIEGO\\SVILUPPO\\olprofesur\\csharp-ws\\ClientRESTfull\\ClientREST\\ClientREST.csproj",
+      "projectUniqueName": "C:\\DIEGO\\SVILUPPO\\olprofesur\\github\\csharp-ws\\ClientRESTfull\\ClientREST\\ClientREST.csproj",
       "projectName": "ClientREST",
-      "projectPath": "C:\\DIEGO\\SVILUPPO\\olprofesur\\csharp-ws\\ClientRESTfull\\ClientREST\\ClientREST.csproj",
+      "projectPath": "C:\\DIEGO\\SVILUPPO\\olprofesur\\github\\csharp-ws\\ClientRESTfull\\ClientREST\\ClientREST.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\DIEGO\\SVILUPPO\\olprofesur\\csharp-ws\\ClientRESTfull\\ClientREST\\obj\\",
+      "outputPath": "C:\\DIEGO\\SVILUPPO\\olprofesur\\github\\csharp-ws\\ClientRESTfull\\ClientREST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
